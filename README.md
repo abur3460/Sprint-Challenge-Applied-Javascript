@@ -34,7 +34,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 2. What is an event?
 
-   - an event is whenever javascript interacts with html
+   - an event is whenever javascript interacts with html, or the user/browser manipulates something
 
 3. What is an event listener?
 
@@ -46,7 +46,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 5) What is a component?
 
-   - A component is a reusable piece of code
+   - A component is a reusable piece of code that creates elements
 
 ### Git Set up
 
